@@ -22,7 +22,7 @@
                     break;
 
                 default:
-                    Console.WriteLine("see arv jääb vahemikku alates(0–300).");
+                    Console.WriteLine("Number ei ole vahemikus (0–300).");
                     break;
             }
         }
